@@ -1,10 +1,10 @@
 package org.example;
 
-public class tryy {
+public class Sheesh {
     private int age;
     private String name;
 
-    public tryy() {
+    public Sheesh() {
 
     }
 }
