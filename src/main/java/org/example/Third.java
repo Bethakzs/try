@@ -1,6 +1,6 @@
 package org.example;
 
-public class Third extends tryy {
+public class Third extends Sheesh {
     public Third() {
         super();
     }
